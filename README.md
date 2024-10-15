@@ -1,5 +1,5 @@
 <h1 align="center">I'm Gabriel Rottini</h1>
-<h3 align="center">A game developer and data analyst who loves doing as many things as possible</h3>
+<h3 align="center">A game developer, data analyst, and translator who loves doing as many things as possible</h3>
 
 - 🔭 I’m currently working on [Vozes da Terra](https://github.com/GabrielRotti/Vozes-Da-Terra)
 - 🌱 I’m currently learning **GDScript, Unreal, Unity, C#, C++, Java**
