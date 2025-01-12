@@ -1,7 +1,7 @@
 <h1 align="center">I'm Gabriel Rottini</h1>
 <h3 align="center">A game developer, data analyst, and translator who loves doing as many things as possible</h3>
 
-- 🔭 I’m currently working on [Vozes da Terra](https://github.com/GabrielRotti/Vozes-Da-Terra)
+- 🔭 I’m currently working on my very own interative software
 - 🌱 I’m currently learning **GDScript, Unreal, Unity, C#, C++, Java**
 - 📫 How to reach me **gabrielrottini02@gmail.com**
 - ⚡ Fun fact **Coffee is my mantra**
